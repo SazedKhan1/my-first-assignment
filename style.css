@@ -1,1 +1,37 @@
-.main-picture {}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.first-section {}
+
+.main-picture {
+    text-align: center;
+    position: relative;
+
+}
+
+.main-picture img {
+    width: 100%;
+}
+
+.main-header {
+    color: whitesmoke;
+    position: absolute;
+    width: 60px;
+}
+
+.bottom-left {
+    position: absolute;
+
+}
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px 50px;
+    text-align: center;
+}
