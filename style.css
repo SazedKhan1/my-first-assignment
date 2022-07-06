@@ -65,12 +65,17 @@ body {
     color: whitesmoke
 }
 
-footer {
-    background-color: black;
-    color: whitesmoke;
-    padding: 20px 50px;
+.donation-heading {
     text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: o;
+}
 
+.donation-article {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 0;
 }
 
 .amount {
@@ -105,8 +110,12 @@ footer {
 
 }
 
-.select-amount hr {
-    size: 50;
+footer {
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px 50px;
+    text-align: center;
+
 }
 
 footer h1 {
