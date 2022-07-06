@@ -151,6 +151,24 @@ body {
     background-color: rgb(5, 109, 109);
 }
 
+.survive-section {
+    display: flex;
+}
+
+.help-people {
+    width: 50%;
+    margin-left: 10%;
+}
+
+.help-people a {
+    text-decoration: none;
+    padding: 10px 30px;
+    border: 3px solid greenyellow;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-image: linear-gradient(Orange, aqua);
+}
+
 footer {
     background-color: black;
     color: whitesmoke;
