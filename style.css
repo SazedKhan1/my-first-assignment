@@ -3,30 +3,7 @@ body {
     padding: 0;
     font-family: 'Nunito', sans-serif;
     font-family: 'Oswald', sans-serif;
-    font-family: 'Ubuntu', sans-serif;
-}
-
-.first-section {}
-
-.main-picture {
-    text-align: center;
-    position: relative;
-
-}
-
-.main-picture img {
-    width: 100%;
-}
-
-.main-header {
-    color: whitesmoke;
-    position: absolute;
-    width: 60px;
-}
-
-.bottom-left {
-    position: absolute;
-
+    font-family: 'Ubuntu', sans-seri
 }
 
 footer {
