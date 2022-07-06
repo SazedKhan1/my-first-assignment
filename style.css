@@ -6,6 +6,56 @@ body {
     font-family: 'Ubuntu', sans-seri
 }
 
+.banner {
+    position: relative;
+    width: 90&;
+    margin: 0 auto;
+
+
+}
+
+.main-heading {
+    position: absolute;
+    color: #f50355;
+    top: 35%;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 700;
+    padding-left: 45%;
+}
+
+
+.banner img {
+    width: 100%;
+}
+
+.banner p {
+    position: absolute;
+    top: 53%;
+    border: 2px solid green;
+    border-radius: 5px;
+    width: 50%;
+    color: black;
+    background-color: bisque;
+    font-weight: 700;
+    text-align: center;
+    margin-left: 40%;
+
+
+}
+
+.banner h2 {
+    position: absolute;
+    top: 45%;
+    color: aqua;
+    margin-left: 55%;
+    font-size: 2rem;
+}
+
+
+
+
+
 footer {
     background-color: black;
     color: whitesmoke;
