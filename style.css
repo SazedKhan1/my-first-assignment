@@ -110,6 +110,21 @@ body {
 
 }
 
+.donation-plan {
+    text-align: center;
+
+}
+
+.donation-plan h1 {
+    font-size: 3rem;
+    color: blueviolet
+}
+
+.donation-plan p {
+    width: 40%;
+    margin-left: 32%;
+}
+
 footer {
     background-color: black;
     color: whitesmoke;
