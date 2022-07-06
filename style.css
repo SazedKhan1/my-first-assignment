@@ -52,6 +52,19 @@ body {
     font-size: 2rem;
 }
 
+.banner a {
+    display: block;
+    position: absolute;
+    top: 69%;
+    margin-left: 60%;
+    border: 2px solid yellow;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(Orange, tomato, green);
+    color: whitesmoke
+}
+
 footer {
     background-color: black;
     color: whitesmoke;
